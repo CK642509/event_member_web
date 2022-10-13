@@ -29,3 +29,5 @@ pip install -r .\requirements.txt
 ```
 python -m main
 ```
+
+7. roaroa
