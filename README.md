@@ -30,4 +30,15 @@ pip install -r .\requirements.txt
 python -m main
 ```
 
-7. roaroa
+## 討論紀錄
+### 10/13
+- 前端用 [Vue](https://vuejs.org/)，後端用 [fastapi](https://fastapi.tiangolo.com/)
+- 測試、部屬之後再討論
+- 主要功能為 活動報名網站
+- 目前只有 python，Vue之後再加進來
+- 版本
+    - Vue 3
+    - python 3.9
+- 未來可能添加功能
+    - 使用 google、FB 登入
+    - 串金流
