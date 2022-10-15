@@ -23,7 +23,7 @@ virtualenv .venv
 4. Select the virtual environment as the interpreter in VS Code (Ctrl + Shift + P)
 5. Install requirements
 ```
-pip install -r .\requirements.txt
+pip install -r requirements.txt
 ```
 6. Start main.py
 ```
